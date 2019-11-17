@@ -81,7 +81,7 @@
                     )
                     (value (cdr expression) memory symbol (cons (value (car expression) memory) operator))
                 )
-          )
+            )
         )
     )
 
