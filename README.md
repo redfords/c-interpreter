@@ -6,7 +6,7 @@ All functions can be run on [JSCL](https://jscl-project.github.io/), a Common Li
 
 ### Resources
 
-[Practical Common Lisp](http://www.gigamonkeys.com/book/) is great for getting started, specially after chapter 3.
+[Practical Common Lisp](http://www.gigamonkeys.com/book/): Great for getting started, especially after chapter 3.
 
 [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/): An excellent starting material for building an interpreter.
 
