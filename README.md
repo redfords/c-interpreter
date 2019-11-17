@@ -1,2 +1,3 @@
-#C Interpreter
-C Interpreter witten in Lisp
+## C Interpreter
+
+C interpreter written in Lisp
