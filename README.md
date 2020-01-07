@@ -1,10 +1,10 @@
-## C Interpreter
+# C Interpreter
 
 C interpreter written in Lisp.
 
 All functions can be run on [JSCL](https://jscl-project.github.io/), a Common Lisp implementation on JavaScript.
 
-### Resources
+## Resources
 
 [Practical Common Lisp](http://www.gigamonkeys.com/book/), great to start learning Lisp.
 
